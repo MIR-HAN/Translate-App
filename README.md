@@ -1,11 +1,11 @@
 
 # <h1> Translate-App</h1>
 
-<h2> Programming Languages & Librarys</h2>
+<h2> Programming Languages </h2>
 
-Website is coded with  CSS and REACT.JS
+Website is coded with JSX CSS and REACT.JS
 
-# Librarys
+ # Librarys
 
 - axios
 - @reduxjs/toolkit
@@ -13,8 +13,7 @@ Website is coded with  CSS and REACT.JS
 - react-select
 - tailwind
 
-
-<h2>Screen </h2>
+<h2>Gif</h2>
 
 ![](Web.gif)
 
