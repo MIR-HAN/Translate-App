@@ -18,5 +18,3 @@ Website is coded with  CSS and REACT.JS
 
 ![](Web.gif)
 
-
-# Translate-App
